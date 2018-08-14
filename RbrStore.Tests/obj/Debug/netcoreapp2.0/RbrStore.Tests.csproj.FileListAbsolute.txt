@@ -1,0 +1,14 @@
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Tests.deps.json
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Tests.runtimeconfig.json
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Tests.runtimeconfig.dev.json
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Tests.dll
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Tests.pdb
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.csprojAssemblyReference.cache
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.csproj.CoreCompileInputs.cache
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.AssemblyInfoInputs.cache
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.AssemblyInfo.cs
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.dll
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.pdb

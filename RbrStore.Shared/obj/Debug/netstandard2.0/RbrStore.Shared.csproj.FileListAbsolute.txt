@@ -1,0 +1,9 @@
+C:\DevCore\RbrStore\RbrStore.Shared\bin\Debug\netstandard2.0\RbrStore.Shared.deps.json
+C:\DevCore\RbrStore\RbrStore.Shared\bin\Debug\netstandard2.0\RbrStore.Shared.dll
+C:\DevCore\RbrStore\RbrStore.Shared\bin\Debug\netstandard2.0\RbrStore.Shared.pdb
+C:\DevCore\RbrStore\RbrStore.Shared\obj\Debug\netstandard2.0\RbrStore.Shared.csprojAssemblyReference.cache
+C:\DevCore\RbrStore\RbrStore.Shared\obj\Debug\netstandard2.0\RbrStore.Shared.csproj.CoreCompileInputs.cache
+C:\DevCore\RbrStore\RbrStore.Shared\obj\Debug\netstandard2.0\RbrStore.Shared.AssemblyInfoInputs.cache
+C:\DevCore\RbrStore\RbrStore.Shared\obj\Debug\netstandard2.0\RbrStore.Shared.AssemblyInfo.cs
+C:\DevCore\RbrStore\RbrStore.Shared\obj\Debug\netstandard2.0\RbrStore.Shared.dll
+C:\DevCore\RbrStore\RbrStore.Shared\obj\Debug\netstandard2.0\RbrStore.Shared.pdb

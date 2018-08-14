@@ -1,0 +1,7 @@
+O cliente acessa o site
+Visualiza o catálogo de produtos
+Adiciona produtos ao carrinho
+Fecha o Pedido
+Gera nota Fiscal
+Separa o pedido para entrega
+Despacha o pedido

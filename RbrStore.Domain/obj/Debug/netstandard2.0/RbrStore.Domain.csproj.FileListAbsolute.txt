@@ -1,0 +1,9 @@
+C:\DevCore\RbrStore\RbrStore.Domain\bin\Debug\netstandard2.0\RbrStore.Domain.deps.json
+C:\DevCore\RbrStore\RbrStore.Domain\bin\Debug\netstandard2.0\RbrStore.Domain.dll
+C:\DevCore\RbrStore\RbrStore.Domain\bin\Debug\netstandard2.0\RbrStore.Domain.pdb
+C:\DevCore\RbrStore\RbrStore.Domain\obj\Debug\netstandard2.0\RbrStore.Domain.csprojAssemblyReference.cache
+C:\DevCore\RbrStore\RbrStore.Domain\obj\Debug\netstandard2.0\RbrStore.Domain.csproj.CoreCompileInputs.cache
+C:\DevCore\RbrStore\RbrStore.Domain\obj\Debug\netstandard2.0\RbrStore.Domain.AssemblyInfoInputs.cache
+C:\DevCore\RbrStore\RbrStore.Domain\obj\Debug\netstandard2.0\RbrStore.Domain.AssemblyInfo.cs
+C:\DevCore\RbrStore\RbrStore.Domain\obj\Debug\netstandard2.0\RbrStore.Domain.dll
+C:\DevCore\RbrStore\RbrStore.Domain\obj\Debug\netstandard2.0\RbrStore.Domain.pdb

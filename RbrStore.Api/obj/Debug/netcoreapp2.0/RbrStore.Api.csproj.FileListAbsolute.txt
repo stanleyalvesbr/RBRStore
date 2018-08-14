@@ -1,0 +1,11 @@
+C:\DevCore\RbrStore\RbrStore.Api\bin\Debug\netcoreapp2.0\RbrStore.Api.deps.json
+C:\DevCore\RbrStore\RbrStore.Api\bin\Debug\netcoreapp2.0\RbrStore.Api.runtimeconfig.json
+C:\DevCore\RbrStore\RbrStore.Api\bin\Debug\netcoreapp2.0\RbrStore.Api.runtimeconfig.dev.json
+C:\DevCore\RbrStore\RbrStore.Api\bin\Debug\netcoreapp2.0\RbrStore.Api.dll
+C:\DevCore\RbrStore\RbrStore.Api\bin\Debug\netcoreapp2.0\RbrStore.Api.pdb
+C:\DevCore\RbrStore\RbrStore.Api\obj\Debug\netcoreapp2.0\RbrStore.Api.csprojAssemblyReference.cache
+C:\DevCore\RbrStore\RbrStore.Api\obj\Debug\netcoreapp2.0\RbrStore.Api.csproj.CoreCompileInputs.cache
+C:\DevCore\RbrStore\RbrStore.Api\obj\Debug\netcoreapp2.0\RbrStore.Api.AssemblyInfoInputs.cache
+C:\DevCore\RbrStore\RbrStore.Api\obj\Debug\netcoreapp2.0\RbrStore.Api.AssemblyInfo.cs
+C:\DevCore\RbrStore\RbrStore.Api\obj\Debug\netcoreapp2.0\RbrStore.Api.dll
+C:\DevCore\RbrStore\RbrStore.Api\obj\Debug\netcoreapp2.0\RbrStore.Api.pdb
