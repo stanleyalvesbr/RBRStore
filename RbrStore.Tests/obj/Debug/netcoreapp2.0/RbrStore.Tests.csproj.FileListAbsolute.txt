@@ -12,3 +12,6 @@ C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.Assemb
 C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.AssemblyInfo.cs
 C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.dll
 C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.pdb
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Domain.dll
+C:\DevCore\RbrStore\RbrStore.Tests\bin\Debug\netcoreapp2.0\RbrStore.Domain.pdb
+C:\DevCore\RbrStore\RbrStore.Tests\obj\Debug\netcoreapp2.0\RbrStore.Tests.csproj.CopyComplete

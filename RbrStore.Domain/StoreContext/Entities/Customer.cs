@@ -37,6 +37,12 @@ namespace RbrStore.Domain.StoreContext.Entities
        public string Phone { get; private set;}
 
        public string Address { get; private set; }
+
+
+       public override string ToString()
+       {
+             return $"{FirstName} {LastName}";
+       }
   }
   
 }

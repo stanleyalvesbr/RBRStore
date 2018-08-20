@@ -16,7 +16,12 @@ namespace RbrStore.Tests
                 "stanley@microloc.com.br",
                 "199999999",
                 "Estrada dos Bandeirantes, 2871");
+
+            var order = new Order(c);
+            //order.Items.
             
         }
+
+
     }
 }
