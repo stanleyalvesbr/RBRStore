@@ -1,5 +1,6 @@
 using System;
-using RbrStore.Domain.StoreContext.Entities;
+using RbrStore.Domain.StoreContext.Enums;
+
 
 namespace RbrStore.Domain.StoreContext.Entities
 {
