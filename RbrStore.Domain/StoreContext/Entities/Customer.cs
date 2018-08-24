@@ -14,7 +14,7 @@ namespace RbrStore.Domain.StoreContext.Entities
       public Customer(
             Name name,
             Document document,
-            string email,
+            Email email,
             string phone,
             string address)
       {
@@ -28,13 +28,9 @@ namespace RbrStore.Domain.StoreContext.Entities
 
        public Name Name {get; private set;}
        public Document Document { get; private set; }
-
-       public string Email { get; private set; }
-
+       public Email Email { get; private set; }
        public string Phone { get; private set;}
-
        public string Address { get; private set; }
-
        public override string ToString()
         {
           return  Name.ToString();
